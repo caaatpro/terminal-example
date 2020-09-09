@@ -1,0 +1,109 @@
+{
+  "hallTitles": {
+    "1": "Зал №1 - Relax",
+    "12": "Зал №12 - Classic",
+    "2": "Зал №5 - Classic",
+    "4": "Зал №9 - Egoist",
+    "6": "Зал №8 - Love",
+    "7": "Зал №2 - Comfort",
+    "8": "Зал №3 - Comfort",
+    "9": "Зал №4 - Invision",
+    "10": "Зал №6 - Classic",
+    "11": "Зал №7 - Classic",
+    "13": "Зал №11 - Classic",
+    "14": "Зал №10 - Business"
+  },
+  "variables": {
+    "type1": {
+      "name": "диван",
+
+      "fill": "transparent",
+      "stroke": "#6e5eb5",
+
+      "selected": {
+        "fill": "#62549e",
+        "stroke": "#62549e"
+      }
+    },
+    "type2": {
+      "name": "Партер",
+
+      "fill": "transparent",
+      "stroke": "#c36abe",
+
+      "selected": {
+        "fill": "#c36abe",
+        "stroke": "#c36abe"
+      }
+    },
+    "type3": {
+      "name": "vip",
+
+      "fill": "transparent",
+      "stroke": "#663f94",
+
+      "selected": {
+        "fill": "#663f94",
+        "stroke": "#663f94"
+      }
+    },
+    "type4": {
+      "name": "Live Chair",
+
+      "fill": "transparent",
+      "stroke": "#c36abe",
+
+      "selected": {
+        "fill": "#c36abe",
+        "stroke": "#c36abe"
+      }
+    },
+    "type5": {
+      "name": "DBOX",
+
+      "fill": "transparent",
+      "stroke": "#de852f",
+
+      "selected": {
+        "fill": "#de852f",
+        "stroke": "#de852f"
+      }
+    },
+    "type6": {
+      "name": "первые ряды",
+
+      "fill": "transparent",
+      "stroke": "#9d836b",
+
+      "selected": {
+        "fill": "#9d836b",
+        "stroke": "#9d836b"
+      }
+    },
+
+    "default": {
+      "fill": "transparent",
+      "stroke": "#9d836b",
+
+      "selected": {
+        "fill": "#9d836b",
+        "stroke": "#9d836b"
+      }
+    },
+
+    "reserved": {
+      "fill": "#55443b",
+      "stroke": "#55443b"
+    },
+
+    "row": {
+      "color": "#bfb4ad",
+      "font": "PF DinDisplay Pro"
+    },
+    "screen": {
+      "fill": "#564233",
+      "font": "PF DinDisplay Pro",
+      "color": "#bfb4ad"
+    }
+  }
+}

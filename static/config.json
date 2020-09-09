@@ -1,0 +1,9 @@
+{
+  "apiUrl": "http://127.0.0.1:1080/",
+  "adminCode": "",
+  "introTimeout": 60000000,
+  "returnTicket": true,
+  "videoIntro": true,
+  "testData": true,
+  "cinemaConfig": "kinomax"
+}

@@ -1,0 +1,4 @@
+.nuxt
+
+/assets/scss/normalize.scss
+*.vue

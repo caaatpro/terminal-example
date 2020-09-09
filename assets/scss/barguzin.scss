@@ -1,0 +1,796 @@
+@import 'normalize';
+@import 'fonts/Calibri';
+@import 'fonts/PFDinDisplayPro';
+@import 'swiper';
+@import 'base';
+@import 'header';
+@import 'footer';
+@import 'preloader';
+@import 'seances';
+@import 'hall';
+@import 'popup';
+@import 'keyboard';
+
+body {
+  background-color: #0a172d;
+  font-family: Roboto, sans-serif;
+}
+
+.intro_ready {
+  width: 100%;
+  height: 100%;
+  background-image: url('../img/barguzin/intro_ready.jpg');
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: 100% 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9;
+
+  &::after {
+    width: 496px;
+    height: 362px;
+    background-image: url('../img/barguzin/ready.png');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: 100% 100%;
+    content: '';
+    position: absolute;
+    bottom: 240px;
+    left: 292px;
+  }
+}
+
+.intro_disconnect {
+  width: 100%;
+  height: 100%;
+  background-image: url('../img/barguzin/intro_disconnect.jpg');
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: 100% 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+
+  &::after {
+    width: 329px;
+    height: 188px;
+    background-image: url('../img/barguzin/disconnect.png');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: 100% 100%;
+    content: '';
+    position: absolute;
+    bottom: 92px;
+    left: 376px;
+  }
+}
+
+.seances {
+  background-color: #10213a;
+}
+
+.footer_tickets_item {
+  fill: transparent;
+
+  .path {
+    fill: #a063ba;
+  }
+
+  .circle {
+    fill: #734886;
+  }
+
+  &::after {
+    background-image: url('../img/barguzin/ticket_remove.svg');
+  }
+}
+
+.footer_tickets_items_area {
+  .footer_tickets_item {
+    fill: transparent;
+
+    .path {
+      fill: #a063ba;
+    }
+
+    .circle {
+      fill: #734886;
+    }
+  }
+}
+
+.main {
+  background-color: #0a172d;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.seances_item_poster {
+  width: 245px;
+  background-color: #10213a;
+  margin: 0 auto;
+
+  img {
+    width: 90%;
+  }
+}
+
+.header {
+  background-color: #11203a;
+  flex-shrink: 0;
+  flex-grow: 1;
+}
+
+.footer {
+  background-color: #11203a;
+  border: 0;
+  box-shadow: inset 0 2px 0 0 #192e52;
+}
+
+.footer_title_info,
+.footer_tickets_title {
+  font-family: Roboto, sans-serif;
+  font-size: 28px;
+  font-weight: 900;
+  color: #5d79a9;
+  text-transform: none;
+}
+
+.footer_title_time {
+  font-family: 'PF DinDisplay Pro', sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  color: #d8e1f0;
+}
+
+.footer_tickets_item_num {
+  font-family: 'PF DinDisplay Pro', sans-serif;
+  font-weight: 400;
+  color: #dcadf0;
+}
+
+.footer_controls_button {
+  height: 85px;
+  background-color: #d02427;
+  background-image: none;
+  font-family: 'PF DinDisplay Pro', sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  line-height: 1;
+  color: #fff;
+  text-shadow: none;
+  text-transform: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  border: 0;
+  padding: 0 48px;
+  box-shadow: none;
+
+  &::after {
+    width: 30px;
+    height: 100%;
+    background-color: #e93e41;
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 0 5px 5px 0;
+  }
+
+  &.pass_ticket_button {
+    background-color: #49679b;
+    background-image: none;
+    color: #fff;
+    text-shadow: none;
+    border: 0;
+    box-shadow: none;
+
+    &::after {
+      background-color: #5677b0;
+    }
+  }
+}
+
+.footer_no_tickets {
+  .footer_controls_button {
+    background-color: #1e3359;
+    background-image: none;
+    color: #395380;
+    text-shadow: none;
+
+    &::after {
+      display: none;
+    }
+
+    &.pass_ticket_button {
+      background-color: #49679b;
+      background-image: none;
+      color: #fff;
+      text-shadow: none;
+      border: 0;
+      box-shadow: none;
+
+      &::after {
+        background-color: #5677b0;
+        display: block;
+      }
+    }
+  }
+
+  .footer_controls_price_clean {
+    background-color: #1e3359;
+    display: block;
+
+    &::after {
+      background-image: url('../img/barguzin/ico_basket_disabled.svg');
+    }
+  }
+
+  .footer_controls_price_sum {
+    color: #395380;
+  }
+}
+
+.footer_controls_price_clean {
+  background-color: #d02427;
+  background-image: none;
+  display: block;
+  position: absolute;
+  top: 13px;
+  left: -27px;
+  margin: 0;
+  box-shadow: none;
+
+  &::after {
+    background-image: url('../img/barguzin/ico_basket.svg');
+  }
+}
+
+.footer_controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer_controls_price {
+  background-color: transparent;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #243c65;
+  border-radius: 5px;
+  padding: 0;
+}
+
+.footer_controls_price_title {
+  font-family: 'PF DinDisplay Pro', sans-serif;
+  font-weight: 400;
+  color: #5d79a9;
+  text-shadow: none;
+  text-transform: none;
+}
+
+.footer_controls_price_sum {
+  font-family: 'PF DinDisplay Pro', sans-serif;
+  font-weight: 400;
+  color: #d8e1f0;
+}
+
+.footer_tickets_item_info {
+  padding: 14px 0 0 16px;
+
+  .row,
+  .place {
+    font-family: 'PF DinDisplay Pro', sans-serif;
+    font-size: 18px;
+    color: #dcadf0;
+
+    i {
+      color: #fff;
+    }
+  }
+}
+
+.header_title {
+  font-family: Roboto, sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 22px;
+  color: #5d79a9;
+}
+
+.header_time {
+  font-family: Roboto, sans-serif;
+  font-size: 36px;
+  font-weight: 900;
+  line-height: 22px;
+  color: #d8e1f0;
+  top: 28px;
+}
+
+.seances_item {
+  background-color: #11203a;
+  border-top: 1px solid #243c65;
+
+  &:not(.lock) {
+    &.select,
+    &.pressed {
+      background-color: #0a172d;
+      border-top: 5px solid #d02427;
+
+      .seances_item_time {
+        font-size: 30px;
+        color: #d8e1f0;
+
+        &::after {
+          background-color: #243c65;
+        }
+      }
+
+      .seances_item_poster {
+        background-color: #0a172d;
+      }
+
+      .seances_item_genres,
+      .seances_item_countries {
+        color: #5d79a9;
+
+        &::after {
+          background-color: #0a172d;
+          box-shadow: 0 0 40px 20px #0a172d;
+        }
+      }
+
+      .seances_item_title {
+        font-family: Roboto, sans-serif;
+        font-size: 22px;
+        font-weight: 900;
+        line-height: 26px;
+        color: #d8e1f0;
+      }
+    }
+  }
+}
+
+.seances_item_title {
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 900;
+  line-height: 26px;
+  color: #d8e1f0;
+  text-transform: none;
+}
+
+.seances_item_hall {
+  min-height: 0;
+  font-family: 'PF DinDisplay Pro', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: #5d79a9;
+  text-transform: none;
+}
+
+.seances_item_genres,
+.seances_item_countries {
+  font-family: 'PF DinDisplay Pro', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #5d79a9;
+
+  &::after {
+    background-color: #11203a;
+    box-shadow: 0 0 40px 20px #11203a;
+  }
+}
+
+.seances_item_time {
+  font-family: 'PF DinDisplay Pro', sans-serif;
+  font-weight: 400;
+  color: #d8e1f0;
+
+  &::after {
+    background-color: #243c65;
+  }
+}
+
+.halls {
+  .hall_title {
+    background-color: #0a172d;
+    font-family: Roboto, sans-serif;
+    font-size: 26px;
+    font-weight: 900;
+    line-height: 22px;
+    color: #d8e1f0;
+    text-transform: none;
+  }
+
+  .hall_info {
+    background-color: #0a172d;
+    text-align: center;
+
+    span {
+      font-family: 'PF DinDisplay Pro', sans-serif;
+      font-weight: 400;
+      color: #5d79a9;
+      display: inline-block;
+
+      i {
+        font-style: normal;
+      }
+    }
+
+    .hall_place {
+      background-color: transparent;
+      border: 2px solid #3b8cd0;
+    }
+  }
+
+  .hall_row {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+  }
+
+  .hall_row_num,
+  .hall_row_num:last-child {
+    font-weight: 400;
+    color: #a4a4a4;
+    position: relative;
+    top: auto;
+    right: auto;
+    left: auto;
+  }
+
+  .hall_place {
+    background-color: transparent;
+    border: 2px solid #3b8cd0;
+
+    &.occupied {
+      border-color: transparent !important;
+
+      &::after {
+        width: 6px;
+        height: 6px;
+        background-color: #bebebe;
+        content: '';
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        border-radius: 50%;
+        transform: translate(-50%, -50%);
+      }
+    }
+
+    &.active {
+      background-color: #f7a709;
+      border-color: #f7a709 !important;
+    }
+
+    &.pressed {
+      &::after {
+        width: auto;
+        height: auto;
+        background-color: #3b8cd0;
+        top: -3px;
+        right: -3px;
+        bottom: -3px;
+        left: -3px;
+      }
+
+      &.active {
+        &::after {
+          background-image: url('../img/barguzin/remove_place.svg');
+          background-repeat: no-repeat;
+          background-position: 50% 50%;
+          background-size: contain;
+        }
+      }
+    }
+  }
+}
+
+.popup_bg,
+.preloader {
+  background-color: #0a172d;
+}
+
+.preloader_clock,
+.preloader_print {
+  background-color: #243a60;
+}
+
+.preloader_clock {
+  &::before {
+    background-image: url('../img/barguzin/preloader.svg');
+  }
+}
+
+.preloader_print {
+  &::before {
+    background-image: url('../img/barguzin/check.svg');
+  }
+}
+
+.preloader_text {
+  font-family: 'PF DinDisplay Pro', sans-serif;
+  font-size: 38px;
+  font-weight: 400;
+  line-height: 36px;
+  color: #5d79a9;
+}
+
+.popup {
+  background-color: rgb(27, 46, 78);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .1);
+
+  .pass_ticket_sum {
+    background-color: #182a48;
+    color: #d8e1f0;
+  }
+
+  &.pass_ticket_steps {
+    background: transparent;
+    box-shadow: none;
+
+    .pass_ticket_step_button {
+      background-color: #1b2e4e;
+      font-family: 'PF DinDisplay Pro', sans-serif;
+      font-weight: 400;
+      color: #d8e1f0;
+      border-top: 0;
+      box-shadow: 0 7px 5px 0 rgba(0, 0, 0, .1);
+
+      &::before {
+        background-color: #162744;
+      }
+
+      &.step1 {
+        &::before {
+          background-image: url('../img/barguzin/pass_ticket_step1.svg');
+          background-size: 96px 79px;
+        }
+      }
+
+      &.step2 {
+        &::before {
+          background-image: url('../img/barguzin/pass_ticket_step2.svg');
+          background-size: 96px 73px;
+        }
+      }
+
+      .pass_ticket_step_title {
+        font-family: Roboto, sans-serif;
+        font-size: 34px;
+        font-weight: 400;
+        color: #5d79a9;
+
+        &::after {
+          background-color: #111e34;
+        }
+      }
+    }
+
+    .pass_ticket_step_button_back {
+      width: auto;
+      background-color: #d02427;
+      background-image: none;
+      background-position: 0 0;
+      background-size: contain;
+      font-family: Roboto, sans-serif;
+      color: #fff;
+      text-align: left;
+      text-shadow: none;
+      border-radius: 5px;
+      padding: 0 30px 0 54px;
+      box-shadow: none;
+
+      &::before {
+        width: 11px;
+        height: 19px;
+        background-image: url('../img/barguzin/button_back.png');
+        background-repeat: no-repeat;
+        content: '';
+        position: absolute;
+        top: 50%;
+        left: 25px;
+        transform: translate(0, -50%);
+      }
+    }
+  }
+}
+
+.popup_content {
+  font-family: 'PF DinDisplay Pro', sans-serif;
+  font-weight: 400;
+  color: #5d79a9;
+  text-shadow: none;
+
+  span {
+    color: #a1b6db;
+  }
+
+  strong {
+    color: #a1b6db;
+  }
+}
+
+.popup_title {
+  font-family: Roboto, sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  color: #5d79a9;
+  text-shadow: none;
+  text-transform: uppercase;
+  border-bottom: 1px solid #111e34;
+}
+
+.popup_button {
+  background-color: #d02427;
+  background-image: none;
+  font-family: 'PF DinDisplay Pro', sans-serif;
+  font-weight: 400;
+  text-shadow: none;
+  text-transform: none;
+  position: relative;
+  border: none;
+  box-shadow: none;
+
+  &.button_cancel {
+    background-color: transparent;
+    background-image: none;
+    color: #fff;
+    border: 0 none;
+    border-bottom: 2px solid #fff;
+    border-radius: 0;
+    padding: 12px 0 3px;
+    margin: 15px 0 0;
+    box-shadow: none;
+
+    &.pressed {
+      background-image: none;
+    }
+  }
+
+  &.pressed {
+    background-color: transparent;
+    background-image: linear-gradient(0deg, #c82f11 0%, #f68b39 100%);
+  }
+
+  &.disabled,
+  &[disabled='disabled'] {
+    background-color: #1e3359;
+    background-image: none;
+    color: #395380;
+    text-shadow: none;
+    border: 0;
+    box-shadow: none;
+  }
+}
+
+.popup.popup_preloader {
+  .subtitle {
+    color: #5d79a9;
+
+    strong {
+      color: #d8e1f0;
+    }
+  }
+}
+
+.popup.pay_window {
+  .popup_title {
+    font-family: Roboto, sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #ffb062;
+    text-shadow: none;
+  }
+
+  .subtitle {
+    font-weight: 400;
+    color: #f8d0a8;
+    text-shadow: none;
+  }
+
+  .text {
+    color: #f8d0a8;
+    text-shadow: none;
+
+    span {
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+}
+
+.input_title {
+  font-family: 'PF DinDisplay Pro', sans-serif;
+  font-weight: 400;
+  color: #5d79a9;
+}
+
+.input {
+  background-color: #182a48;
+  border-color: #456190;
+  border-radius: 5px;
+
+  span.input_value {
+    color: #d8e1f0;
+  }
+
+  &.focus {
+    border-color: #456190;
+  }
+}
+
+.keyboard {
+  background-color: #1b2e4e;
+
+  &::before {
+    background-image: url('../img/barguzin/keyboard_top.png');
+  }
+}
+
+.keyboard_buttons {
+  padding: 30px 16px;
+}
+
+.keyboard_button {
+  box-shadow: inset 0 0 0 5px #456190;
+
+  i {
+    font-family: 'PF DinDisplay Pro', sans-serif;
+    font-weight: 700;
+    color: #d8e1f0;
+  }
+
+  &.pressed {
+    i {
+      background-color: #3b8cd0;
+      color: #21211f;
+    }
+  }
+
+  &.clean {
+    box-shadow: inset 0 0 0 5px #d02427;
+
+    i {
+      background-image: url('../img/barguzin/keyboard_button_clean.svg');
+      background-size: 55%;
+    }
+  }
+
+  &.back {
+    i {
+      background-image: url('../img/barguzin/keyboard_button_back.svg');
+      background-size: 55%;
+    }
+  }
+}
+
+.keyboard_close {
+  background-color: #172844;
+  font-family: 'PF DinDisplay Pro', sans-serif;
+  font-size: 38px;
+  font-weight: 400;
+  color: #d8e1f0;
+  text-transform: none;
+  border-top: 1px solid #111e34;
+}
+
+.seances_item_poster_tag {
+  display: none;
+}
+
+.footer_controls_price_clean {
+  font-size: 0;
+}

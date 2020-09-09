@@ -1,0 +1,29 @@
+.type1 {
+  &.hall_place {
+    border: 2px solid #428abd;
+  }
+
+  &.footer_tickets_item svg {
+    fill: #428abd;
+  }
+}
+
+.type2 {
+  &.hall_place {
+    border: 2px solid #7da73c;
+  }
+
+  &.footer_tickets_item svg {
+    fill: #7da73c;
+  }
+}
+
+.type4 {
+  &.hall_place {
+    border: 2px solid #cb5050;
+  }
+
+  &.footer_tickets_item svg {
+    fill: #cb5050;
+  }
+}

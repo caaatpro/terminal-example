@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "node_modules": true,
+        "package-lock.json": true,
+        "yarn.lock": true,
+        "dist": true,
+        "builds": true,
+        "_documents": true,
+        ".nuxt": true
+    },
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true
+}

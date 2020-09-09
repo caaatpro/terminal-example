@@ -1,0 +1,57 @@
+{
+  "hallTitles": {
+    "1": "Красный",
+    "2": "Синий",
+    "3": "Зеленый",
+    "4": "VIP",
+    "11": "Вишневый",
+    "12": "IMAX"
+  },
+  "variables": {
+    "type": {
+      "type1": {
+        "name": "VIP"
+      },
+      "type2": {
+        "name": "Основные"
+      },
+      "type5": {
+        "name": "DBOX"
+      },
+      "type6": {
+        "name": "LBOX"
+      },
+      "type7": {
+        "name": "imax2d"
+      },
+      "type8": {
+        "name": "imax3d"
+      }
+    },
+    "hover": {
+      "fill": "#ffb062",
+      "stroke": "#ffb062"
+    },
+    "selected": {
+      "fill": "#d02427",
+      "stroke": "#d02427"
+    },
+    "reserved": {
+      "fill": "#253b63",
+      "stroke": "#253b63"
+    },
+    "default": {
+      "fill": "#0a172d",
+      "stroke": "#a063ba"
+    },
+    "row": {
+      "color": "#385587",
+      "font": "PF DinDisplay Pro"
+    },
+    "screen": {
+      "fill": "#1b3053",
+      "font": "PF DinDisplay Pro",
+      "color": "#7187b0"
+    }
+  }
+}

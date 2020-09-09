@@ -1,0 +1,173 @@
+<XML>
+	<Result>Ok</Result>
+	<Error/>
+	<Remark/>
+	<Data>
+		<Theatres>
+			<Theatre ID="2">
+				<Halls>
+					<Hall ID="11">
+						<Levels>
+							<Level ID="25" Geometry="1">
+								<Background>
+									<Color R="240" G="240" B="240">15790320</Color>
+								</Background>
+								<Objects>
+									<Object X="16" Y="5" Width="180" Height="10" ObjType="1">
+										<Name>
+											<![CDATA[Экран]]>
+										</Name>
+										<Color R="92" G="92" B="205">13458524</Color>
+									</Object>									
+								</Objects>
+								<Places Width="210" Height="126" PlacesCount="141">
+									<Place ID="1135" Row="1" Place="1" X="37" Y="25" Width="8" Height="8" Type="2"/>
+									<Place ID="1144" Row="1" Place="10" X="158" Y="25" Width="8" Height="8" Type="2"/>
+									<Place ID="1145" Row="1" Place="11" X="168" Y="25" Width="8" Height="8" Type="2"/>
+									<Place ID="1146" Row="1" Place="12" X="178" Y="25" Width="8" Height="8" Type="2"/>
+									<Place ID="1147" Row="1" Place="13" X="188" Y="25" Width="8" Height="8" Type="2"/>
+									<Place ID="1136" Row="1" Place="2" X="47" Y="25" Width="8" Height="8" Type="2"/>
+									<Place ID="1137" Row="1" Place="3" X="57" Y="25" Width="8" Height="8" Type="2"/>
+									<Place ID="1138" Row="1" Place="4" X="67" Y="25" Width="8" Height="8" Type="2"/>
+									<Place ID="1139" Row="1" Place="5" X="77" Y="25" Width="8" Height="8" Type="2"/>
+									<Place ID="1140" Row="1" Place="6" X="87" Y="25" Width="8" Height="8" Type="2"/>
+									<Place ID="1141" Row="1" Place="7" X="128" Y="25" Width="8" Height="8" Type="2"/>
+									<Place ID="1142" Row="1" Place="8" X="138" Y="25" Width="8" Height="8" Type="2"/>
+									<Place ID="1143" Row="1" Place="9" X="148" Y="25" Width="8" Height="8" Type="2"/>
+									<Place ID="1261" Row="10" Place="1" X="16" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1270" Row="10" Place="10" X="107" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1271" Row="10" Place="11" X="118" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1272" Row="10" Place="12" X="128" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1273" Row="10" Place="13" X="138" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1274" Row="10" Place="14" X="148" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1275" Row="10" Place="15" X="158" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1276" Row="10" Place="16" X="168" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1277" Row="10" Place="17" X="178" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1278" Row="10" Place="18" X="188" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1262" Row="10" Place="2" X="26" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1263" Row="10" Place="3" X="37" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1264" Row="10" Place="4" X="47" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1265" Row="10" Place="5" X="57" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1266" Row="10" Place="6" X="67" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1267" Row="10" Place="7" X="77" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1268" Row="10" Place="8" X="87" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1269" Row="10" Place="9" X="97" Y="116" Width="8" Height="8" Type="2"/>
+									<Place ID="1148" Row="2" Place="1" X="37" Y="35" Width="8" Height="8" Type="2"/>
+									<Place ID="1157" Row="2" Place="10" X="158" Y="35" Width="8" Height="8" Type="2"/>
+									<Place ID="1158" Row="2" Place="11" X="168" Y="35" Width="8" Height="8" Type="2"/>
+									<Place ID="1159" Row="2" Place="12" X="178" Y="35" Width="8" Height="8" Type="2"/>
+									<Place ID="1160" Row="2" Place="13" X="188" Y="35" Width="8" Height="8" Type="2"/>
+									<Place ID="1149" Row="2" Place="2" X="47" Y="35" Width="8" Height="8" Type="2"/>
+									<Place ID="1150" Row="2" Place="3" X="57" Y="35" Width="8" Height="8" Type="2"/>
+									<Place ID="1151" Row="2" Place="4" X="67" Y="35" Width="8" Height="8" Type="2"/>
+									<Place ID="1152" Row="2" Place="5" X="77" Y="35" Width="8" Height="8" Type="2"/>
+									<Place ID="1153" Row="2" Place="6" X="87" Y="35" Width="8" Height="8" Type="2"/>
+									<Place ID="1154" Row="2" Place="7" X="128" Y="35" Width="8" Height="8" Type="2"/>
+									<Place ID="1155" Row="2" Place="8" X="138" Y="35" Width="8" Height="8" Type="2"/>
+									<Place ID="1156" Row="2" Place="9" X="148" Y="35" Width="8" Height="8" Type="2"/>
+									<Place ID="1161" Row="3" Place="1" X="37" Y="45" Width="8" Height="8" Type="2"/>
+									<Place ID="1170" Row="3" Place="10" X="158" Y="45" Width="8" Height="8" Type="2"/>
+									<Place ID="1171" Row="3" Place="11" X="168" Y="45" Width="8" Height="8" Type="2"/>
+									<Place ID="1172" Row="3" Place="12" X="178" Y="45" Width="8" Height="8" Type="2"/>
+									<Place ID="1173" Row="3" Place="13" X="188" Y="45" Width="8" Height="8" Type="2"/>
+									<Place ID="1162" Row="3" Place="2" X="47" Y="45" Width="8" Height="8" Type="2"/>
+									<Place ID="1163" Row="3" Place="3" X="57" Y="45" Width="8" Height="8" Type="2"/>
+									<Place ID="1164" Row="3" Place="4" X="67" Y="45" Width="8" Height="8" Type="2"/>
+									<Place ID="1165" Row="3" Place="5" X="77" Y="45" Width="8" Height="8" Type="2"/>
+									<Place ID="1166" Row="3" Place="6" X="87" Y="45" Width="8" Height="8" Type="2"/>
+									<Place ID="1167" Row="3" Place="7" X="128" Y="45" Width="8" Height="8" Type="2"/>
+									<Place ID="1168" Row="3" Place="8" X="138" Y="45" Width="8" Height="8" Type="2"/>
+									<Place ID="1169" Row="3" Place="9" X="148" Y="45" Width="8" Height="8" Type="2"/>
+									<Place ID="1174" Row="4" Place="1" X="37" Y="55" Width="8" Height="8" Type="2"/>
+									<Place ID="1183" Row="4" Place="10" X="158" Y="55" Width="8" Height="8" Type="2"/>
+									<Place ID="1184" Row="4" Place="11" X="168" Y="55" Width="8" Height="8" Type="2"/>
+									<Place ID="1185" Row="4" Place="12" X="178" Y="55" Width="8" Height="8" Type="2"/>
+									<Place ID="1186" Row="4" Place="13" X="188" Y="55" Width="8" Height="8" Type="2"/>
+									<Place ID="1175" Row="4" Place="2" X="47" Y="55" Width="8" Height="8" Type="2"/>
+									<Place ID="1176" Row="4" Place="3" X="57" Y="55" Width="8" Height="8" Type="2"/>
+									<Place ID="1177" Row="4" Place="4" X="67" Y="55" Width="8" Height="8" Type="2"/>
+									<Place ID="1178" Row="4" Place="5" X="77" Y="55" Width="8" Height="8" Type="2"/>
+									<Place ID="1179" Row="4" Place="6" X="87" Y="55" Width="8" Height="8" Type="2"/>
+									<Place ID="1180" Row="4" Place="7" X="128" Y="55" Width="8" Height="8" Type="2"/>
+									<Place ID="1181" Row="4" Place="8" X="138" Y="55" Width="8" Height="8" Type="2"/>
+									<Place ID="1182" Row="4" Place="9" X="148" Y="55" Width="8" Height="8" Type="2"/>
+									<Place ID="1187" Row="5" Place="1" X="37" Y="65" Width="8" Height="8" Type="2"/>
+									<Place ID="1196" Row="5" Place="10" X="158" Y="65" Width="8" Height="8" Type="2"/>
+									<Place ID="1197" Row="5" Place="11" X="168" Y="65" Width="8" Height="8" Type="2"/>
+									<Place ID="1198" Row="5" Place="12" X="178" Y="65" Width="8" Height="8" Type="2"/>
+									<Place ID="1199" Row="5" Place="13" X="188" Y="65" Width="8" Height="8" Type="2"/>
+									<Place ID="1188" Row="5" Place="2" X="47" Y="65" Width="8" Height="8" Type="2"/>
+									<Place ID="1189" Row="5" Place="3" X="57" Y="65" Width="8" Height="8" Type="2"/>
+									<Place ID="1190" Row="5" Place="4" X="67" Y="65" Width="8" Height="8" Type="2"/>
+									<Place ID="1191" Row="5" Place="5" X="77" Y="65" Width="8" Height="8" Type="2"/>
+									<Place ID="1192" Row="5" Place="6" X="87" Y="65" Width="8" Height="8" Type="2"/>
+									<Place ID="1193" Row="5" Place="7" X="128" Y="65" Width="8" Height="8" Type="2"/>
+									<Place ID="1194" Row="5" Place="8" X="138" Y="65" Width="8" Height="8" Type="2"/>
+									<Place ID="1195" Row="5" Place="9" X="148" Y="65" Width="8" Height="8" Type="2"/>
+									<Place ID="1200" Row="6" Place="1" X="37" Y="75" Width="8" Height="8" Type="2"/>
+									<Place ID="1209" Row="6" Place="10" X="158" Y="75" Width="8" Height="8" Type="2"/>
+									<Place ID="1210" Row="6" Place="11" X="168" Y="75" Width="8" Height="8" Type="2"/>
+									<Place ID="1211" Row="6" Place="12" X="178" Y="75" Width="8" Height="8" Type="2"/>
+									<Place ID="1212" Row="6" Place="13" X="188" Y="75" Width="8" Height="8" Type="2"/>
+									<Place ID="1201" Row="6" Place="2" X="47" Y="75" Width="8" Height="8" Type="2"/>
+									<Place ID="1202" Row="6" Place="3" X="57" Y="75" Width="8" Height="8" Type="2"/>
+									<Place ID="1203" Row="6" Place="4" X="67" Y="75" Width="8" Height="8" Type="2"/>
+									<Place ID="1204" Row="6" Place="5" X="77" Y="75" Width="8" Height="8" Type="2"/>
+									<Place ID="1205" Row="6" Place="6" X="87" Y="75" Width="8" Height="8" Type="2"/>
+									<Place ID="1206" Row="6" Place="7" X="128" Y="75" Width="8" Height="8" Type="2"/>
+									<Place ID="1207" Row="6" Place="8" X="138" Y="75" Width="8" Height="8" Type="2"/>
+									<Place ID="1208" Row="6" Place="9" X="148" Y="75" Width="8" Height="8" Type="2"/>
+									<Place ID="1213" Row="7" Place="1" X="16" Y="86" Width="8" Height="8" Type="2"/>
+									<Place ID="1222" Row="7" Place="10" X="138" Y="86" Width="8" Height="8" Type="2"/>
+									<Place ID="1223" Row="7" Place="11" X="148" Y="86" Width="8" Height="8" Type="2"/>
+									<Place ID="1224" Row="7" Place="12" X="158" Y="86" Width="8" Height="8" Type="2"/>
+									<Place ID="1225" Row="7" Place="13" X="168" Y="86" Width="8" Height="8" Type="2"/>
+									<Place ID="1226" Row="7" Place="14" X="178" Y="86" Width="8" Height="8" Type="2"/>
+									<Place ID="1227" Row="7" Place="15" X="188" Y="86" Width="8" Height="8" Type="2"/>
+									<Place ID="1214" Row="7" Place="2" X="26" Y="86" Width="8" Height="8" Type="2"/>
+									<Place ID="1215" Row="7" Place="3" X="37" Y="86" Width="8" Height="8" Type="2"/>
+									<Place ID="1216" Row="7" Place="4" X="47" Y="86" Width="8" Height="8" Type="2"/>
+									<Place ID="1217" Row="7" Place="5" X="57" Y="86" Width="8" Height="8" Type="2"/>
+									<Place ID="1218" Row="7" Place="6" X="67" Y="86" Width="8" Height="8" Type="2"/>
+									<Place ID="1219" Row="7" Place="7" X="77" Y="86" Width="8" Height="8" Type="2"/>
+									<Place ID="1220" Row="7" Place="8" X="87" Y="86" Width="8" Height="8" Type="2"/>
+									<Place ID="1221" Row="7" Place="9" X="128" Y="86" Width="8" Height="8" Type="2"/>
+									<Place ID="1229" Row="8" Place="1" X="16" Y="96" Width="8" Height="8" Type="2"/>
+									<Place ID="1238" Row="8" Place="10" X="138" Y="96" Width="8" Height="8" Type="2"/>
+									<Place ID="1239" Row="8" Place="11" X="148" Y="96" Width="8" Height="8" Type="2"/>
+									<Place ID="1240" Row="8" Place="12" X="158" Y="96" Width="8" Height="8" Type="2"/>
+									<Place ID="1241" Row="8" Place="13" X="168" Y="96" Width="8" Height="8" Type="2"/>
+									<Place ID="1242" Row="8" Place="14" X="178" Y="96" Width="8" Height="8" Type="2"/>
+									<Place ID="1243" Row="8" Place="15" X="188" Y="96" Width="8" Height="8" Type="2"/>
+									<Place ID="1230" Row="8" Place="2" X="26" Y="96" Width="8" Height="8" Type="2"/>
+									<Place ID="1231" Row="8" Place="3" X="37" Y="96" Width="8" Height="8" Type="2"/>
+									<Place ID="1232" Row="8" Place="4" X="47" Y="96" Width="8" Height="8" Type="2"/>
+									<Place ID="1233" Row="8" Place="5" X="57" Y="96" Width="8" Height="8" Type="2"/>
+									<Place ID="1234" Row="8" Place="6" X="67" Y="96" Width="8" Height="8" Type="2"/>
+									<Place ID="1235" Row="8" Place="7" X="77" Y="96" Width="8" Height="8" Type="2"/>
+									<Place ID="1236" Row="8" Place="8" X="87" Y="96" Width="8" Height="8" Type="2"/>
+									<Place ID="1237" Row="8" Place="9" X="128" Y="96" Width="8" Height="8" Type="2"/>
+									<Place ID="1245" Row="9" Place="1" X="16" Y="106" Width="8" Height="8" Type="2"/>
+									<Place ID="1254" Row="9" Place="10" X="138" Y="106" Width="8" Height="8" Type="2"/>
+									<Place ID="1255" Row="9" Place="11" X="148" Y="106" Width="8" Height="8" Type="2"/>
+									<Place ID="1256" Row="9" Place="12" X="158" Y="106" Width="8" Height="8" Type="2"/>
+									<Place ID="1257" Row="9" Place="13" X="168" Y="106" Width="8" Height="8" Type="2"/>
+									<Place ID="1258" Row="9" Place="14" X="178" Y="106" Width="8" Height="8" Type="2"/>
+									<Place ID="1259" Row="9" Place="15" X="188" Y="106" Width="8" Height="8" Type="2"/>
+									<Place ID="1246" Row="9" Place="2" X="26" Y="106" Width="8" Height="8" Type="2"/>
+									<Place ID="1247" Row="9" Place="3" X="37" Y="106" Width="8" Height="8" Type="2"/>
+									<Place ID="1248" Row="9" Place="4" X="47" Y="106" Width="8" Height="8" Type="2"/>
+									<Place ID="1249" Row="9" Place="5" X="57" Y="106" Width="8" Height="8" Type="2"/>
+									<Place ID="1250" Row="9" Place="6" X="67" Y="106" Width="8" Height="8" Type="2"/>
+									<Place ID="1251" Row="9" Place="7" X="77" Y="106" Width="8" Height="8" Type="2"/>
+									<Place ID="1252" Row="9" Place="8" X="87" Y="106" Width="8" Height="8" Type="2"/>
+									<Place ID="1253" Row="9" Place="9" X="128" Y="106" Width="8" Height="8" Type="2"/>
+								</Places>
+							</Level>
+						</Levels>
+					</Hall>
+				</Halls>
+			</Theatre>
+		</Theatres>
+	</Data>
+</XML>

@@ -1,0 +1,58 @@
+{
+  "name": "terminal",
+  "version": "1.0.0",
+  "description": "Sale terminal",
+  "author": "Andrew <caaatpro@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build && gulp build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint",
+    "lint.styles": "stylelint --fix **/*.scss"
+  },
+  "lint-staged": {
+    "*.{js,vue}": "eslint"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.11.0",
+    "axios": "^0.19.2",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^9.0.1",
+    "global": "^4.4.0",
+    "gulp": "^4.0.2",
+    "gulp-zip": "^5.0.2",
+    "moment": "^2.26.0",
+    "nuxt": "^2.14.4",
+    "path": "^0.12.7",
+    "string-mask": "^0.3.0",
+    "stylelint-prettier": "^1.1.2",
+    "stylelint-scss": "^3.18.0",
+    "swiper": "^5.4.2",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue2-touch-events": "^2.2.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^3.0.0",
+    "@nuxtjs/eslint-module": "^2.0.0",
+    "@nuxtjs/moment": "^1.6.0",
+    "@nuxtjs/style-resources": "^1.0.0",
+    "@nuxtjs/stylelint-module": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^7.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-nuxt": "^1.0.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.9",
+    "node-sass": "^4.13.1",
+    "prettier": "^2.0.5",
+    "sass-loader": "^8.0.2",
+    "schemedesigner": "git+ssh://git@bitbucket.org:nikolasgroup_projects/schemedesigner.git",
+    "stylelint": "^13.0.0",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.0.0"
+  }
+}

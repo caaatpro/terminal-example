@@ -1,0 +1,627 @@
+<?xml version='1.0' encoding='Windows-1251' standalone='yes'?>
+<XML>
+	<Result>Ok</Result>
+	<Error/>
+	<Remark/>
+	<Data>
+		<Theatres>
+			<Theatre ID='1'>
+				<Halls>
+					<Hall ID='10'>
+						<Levels>
+							<Level ID='8' Geometry='1'>
+								<Background>
+									<Color R='0' G='128' B='0'>32768</Color>
+								</Background>
+								<Objects>
+									<Object X='10' Y='5' Width='1106' Height='30'>
+										<Name>
+											<![CDATA[Экран]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='11' Y='50' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 1]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='11' Y='80' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 2]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='11' Y='110' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 3]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='11' Y='155' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 4]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='11' Y='185' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 5]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='11' Y='215' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 6]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='11' Y='245' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 7]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='11' Y='275' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 8]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='11' Y='305' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 9]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='11' Y='335' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 10]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='11' Y='365' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 11]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='11' Y='395' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 12]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='11' Y='425' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 13]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='11' Y='455' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 14]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='11' Y='485' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 15]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+									<Object X='10' Y='515' Width='70' Height='28'>
+										<Name>
+											<![CDATA[Ряд 16]]>
+										</Name>
+										<Color R='255' G='255' B='192'>12648447</Color>
+									</Object>
+								</Objects>
+								<Places Width='1121' Height='548' PlacesCount='498'>
+									<Place ID='3433' Row='1' Place='1' X='178' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3442' Row='1' Place='10' X='448' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3443' Row='1' Place='11' X='478' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3444' Row='1' Place='12' X='508' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3445' Row='1' Place='13' X='538' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3462' Row='1' Place='14' X='570' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3463' Row='1' Place='15' X='600' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3464' Row='1' Place='16' X='630' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3465' Row='1' Place='17' X='660' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3466' Row='1' Place='18' X='690' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3467' Row='1' Place='19' X='720' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3434' Row='1' Place='2' X='208' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3468' Row='1' Place='20' X='750' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3469' Row='1' Place='21' X='780' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3470' Row='1' Place='22' X='810' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3471' Row='1' Place='23' X='840' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3472' Row='1' Place='24' X='870' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3473' Row='1' Place='25' X='900' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3474' Row='1' Place='26' X='930' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3475' Row='1' Place='27' X='960' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3476' Row='1' Place='28' X='990' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3435' Row='1' Place='3' X='238' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3436' Row='1' Place='4' X='268' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3437' Row='1' Place='5' X='298' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3438' Row='1' Place='6' X='328' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3439' Row='1' Place='7' X='358' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3440' Row='1' Place='8' X='388' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3441' Row='1' Place='9' X='418' Y='50' Width='28' Height='28' Type='6'/>
+									<Place ID='3292' Row='10' Place='1' X='87' Y='335' Width='28' Height='28' Type='6'/>
+									<Place ID='3301' Row='10' Place='10' X='402' Y='335' Width='29' Height='29' Type='6'/>
+									<Place ID='3302' Row='10' Place='11' X='447' Y='335' Width='29' Height='29' Type='6'/>
+									<Place ID='3303' Row='10' Place='12' X='492' Y='335' Width='29' Height='29' Type='6'/>
+									<Place ID='3304' Row='10' Place='13' X='537' Y='335' Width='29' Height='29' Type='6'/>
+									<Place ID='3089' Row='10' Place='14' X='580' Y='335' Width='29' Height='29' Type='6'/>
+									<Place ID='3090' Row='10' Place='15' X='625' Y='335' Width='29' Height='29' Type='6'/>
+									<Place ID='3091' Row='10' Place='16' X='665' Y='335' Width='29' Height='29' Type='6'/>
+									<Place ID='3092' Row='10' Place='17' X='715' Y='335' Width='29' Height='29' Type='6'/>
+									<Place ID='3093' Row='10' Place='18' X='765' Y='335' Width='29' Height='29' Type='6'/>
+									<Place ID='3094' Row='10' Place='19' X='810' Y='335' Width='29' Height='29' Type='6'/>
+									<Place ID='3293' Row='10' Place='2' X='117' Y='335' Width='28' Height='28' Type='6'/>
+									<Place ID='3095' Row='10' Place='20' X='855' Y='335' Width='29' Height='29' Type='6'/>
+									<Place ID='3096' Row='10' Place='21' X='900' Y='335' Width='28' Height='28' Type='6'/>
+									<Place ID='3097' Row='10' Place='22' X='930' Y='335' Width='28' Height='28' Type='6'/>
+									<Place ID='3098' Row='10' Place='23' X='960' Y='335' Width='28' Height='28' Type='6'/>
+									<Place ID='3099' Row='10' Place='24' X='990' Y='335' Width='28' Height='28' Type='6'/>
+									<Place ID='3100' Row='10' Place='25' X='1020' Y='335' Width='28' Height='28' Type='6'/>
+									<Place ID='3101' Row='10' Place='26' X='1050' Y='335' Width='28' Height='28' Type='6'/>
+									<Place ID='3102' Row='10' Place='27' X='1080' Y='335' Width='28' Height='28' Type='6'/>
+									<Place ID='3294' Row='10' Place='3' X='147' Y='335' Width='28' Height='28' Type='6'/>
+									<Place ID='3295' Row='10' Place='4' X='177' Y='335' Width='28' Height='28' Type='6'/>
+									<Place ID='3296' Row='10' Place='5' X='207' Y='335' Width='28' Height='28' Type='6'/>
+									<Place ID='3297' Row='10' Place='6' X='237' Y='335' Width='28' Height='28' Type='6'/>
+									<Place ID='3298' Row='10' Place='7' X='267' Y='335' Width='28' Height='28' Type='6'/>
+									<Place ID='3299' Row='10' Place='8' X='307' Y='335' Width='29' Height='29' Type='6'/>
+									<Place ID='3300' Row='10' Place='9' X='357' Y='335' Width='29' Height='29' Type='6'/>
+									<Place ID='3278' Row='11' Place='1' X='87' Y='365' Width='28' Height='28' Type='6'/>
+									<Place ID='3287' Row='11' Place='10' X='402' Y='365' Width='29' Height='29' Type='6'/>
+									<Place ID='3288' Row='11' Place='11' X='447' Y='365' Width='29' Height='29' Type='6'/>
+									<Place ID='3289' Row='11' Place='12' X='492' Y='365' Width='29' Height='29' Type='6'/>
+									<Place ID='3290' Row='11' Place='13' X='537' Y='365' Width='29' Height='29' Type='6'/>
+									<Place ID='3103' Row='11' Place='14' X='580' Y='365' Width='29' Height='29' Type='6'/>
+									<Place ID='3104' Row='11' Place='15' X='625' Y='365' Width='29' Height='29' Type='6'/>
+									<Place ID='3105' Row='11' Place='16' X='665' Y='365' Width='29' Height='29' Type='6'/>
+									<Place ID='3106' Row='11' Place='17' X='715' Y='365' Width='29' Height='29' Type='6'/>
+									<Place ID='3107' Row='11' Place='18' X='765' Y='365' Width='29' Height='29' Type='6'/>
+									<Place ID='3108' Row='11' Place='19' X='810' Y='365' Width='29' Height='29' Type='6'/>
+									<Place ID='3279' Row='11' Place='2' X='117' Y='365' Width='28' Height='28' Type='6'/>
+									<Place ID='3109' Row='11' Place='20' X='855' Y='365' Width='29' Height='29' Type='6'/>
+									<Place ID='3110' Row='11' Place='21' X='900' Y='365' Width='28' Height='28' Type='6'/>
+									<Place ID='3111' Row='11' Place='22' X='930' Y='365' Width='28' Height='28' Type='6'/>
+									<Place ID='3112' Row='11' Place='23' X='960' Y='365' Width='28' Height='28' Type='6'/>
+									<Place ID='3113' Row='11' Place='24' X='990' Y='365' Width='28' Height='28' Type='6'/>
+									<Place ID='3114' Row='11' Place='25' X='1020' Y='365' Width='28' Height='28' Type='6'/>
+									<Place ID='3115' Row='11' Place='26' X='1050' Y='365' Width='28' Height='28' Type='6'/>
+									<Place ID='3116' Row='11' Place='27' X='1080' Y='365' Width='28' Height='28' Type='6'/>
+									<Place ID='3280' Row='11' Place='3' X='147' Y='365' Width='28' Height='28' Type='6'/>
+									<Place ID='3281' Row='11' Place='4' X='177' Y='365' Width='28' Height='28' Type='6'/>
+									<Place ID='3282' Row='11' Place='5' X='207' Y='365' Width='28' Height='28' Type='6'/>
+									<Place ID='3283' Row='11' Place='6' X='237' Y='365' Width='28' Height='28' Type='6'/>
+									<Place ID='3284' Row='11' Place='7' X='267' Y='365' Width='28' Height='28' Type='6'/>
+									<Place ID='3285' Row='11' Place='8' X='307' Y='365' Width='29' Height='29' Type='6'/>
+									<Place ID='3286' Row='11' Place='9' X='357' Y='365' Width='29' Height='29' Type='6'/>
+									<Place ID='3264' Row='12' Place='1' X='87' Y='395' Width='28' Height='28' Type='6'/>
+									<Place ID='3273' Row='12' Place='10' X='402' Y='395' Width='29' Height='29' Type='6'/>
+									<Place ID='3274' Row='12' Place='11' X='447' Y='395' Width='29' Height='29' Type='6'/>
+									<Place ID='3275' Row='12' Place='12' X='492' Y='395' Width='29' Height='29' Type='6'/>
+									<Place ID='3276' Row='12' Place='13' X='537' Y='395' Width='29' Height='29' Type='6'/>
+									<Place ID='3117' Row='12' Place='14' X='580' Y='395' Width='29' Height='29' Type='6'/>
+									<Place ID='3118' Row='12' Place='15' X='625' Y='395' Width='29' Height='29' Type='6'/>
+									<Place ID='3119' Row='12' Place='16' X='665' Y='395' Width='29' Height='29' Type='6'/>
+									<Place ID='3120' Row='12' Place='17' X='715' Y='395' Width='29' Height='29' Type='6'/>
+									<Place ID='3121' Row='12' Place='18' X='765' Y='395' Width='29' Height='29' Type='6'/>
+									<Place ID='3122' Row='12' Place='19' X='810' Y='395' Width='29' Height='29' Type='6'/>
+									<Place ID='3265' Row='12' Place='2' X='117' Y='395' Width='28' Height='28' Type='6'/>
+									<Place ID='3123' Row='12' Place='20' X='855' Y='395' Width='29' Height='29' Type='6'/>
+									<Place ID='3124' Row='12' Place='21' X='900' Y='395' Width='28' Height='28' Type='6'/>
+									<Place ID='3125' Row='12' Place='22' X='930' Y='395' Width='28' Height='28' Type='6'/>
+									<Place ID='3126' Row='12' Place='23' X='960' Y='395' Width='28' Height='28' Type='6'/>
+									<Place ID='3127' Row='12' Place='24' X='990' Y='395' Width='28' Height='28' Type='6'/>
+									<Place ID='3128' Row='12' Place='25' X='1020' Y='395' Width='28' Height='28' Type='6'/>
+									<Place ID='3129' Row='12' Place='26' X='1050' Y='395' Width='28' Height='28' Type='6'/>
+									<Place ID='3130' Row='12' Place='27' X='1080' Y='395' Width='28' Height='28' Type='6'/>
+									<Place ID='3266' Row='12' Place='3' X='147' Y='395' Width='28' Height='28' Type='6'/>
+									<Place ID='3267' Row='12' Place='4' X='177' Y='395' Width='28' Height='28' Type='6'/>
+									<Place ID='3268' Row='12' Place='5' X='207' Y='395' Width='28' Height='28' Type='6'/>
+									<Place ID='3269' Row='12' Place='6' X='237' Y='395' Width='28' Height='28' Type='6'/>
+									<Place ID='3270' Row='12' Place='7' X='267' Y='395' Width='28' Height='28' Type='6'/>
+									<Place ID='3271' Row='12' Place='8' X='307' Y='395' Width='29' Height='29' Type='6'/>
+									<Place ID='3272' Row='12' Place='9' X='357' Y='395' Width='29' Height='29' Type='6'/>
+									<Place ID='3247' Row='13' Place='1' X='87' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3256' Row='13' Place='10' X='357' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3257' Row='13' Place='11' X='387' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3258' Row='13' Place='12' X='417' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3259' Row='13' Place='13' X='447' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3260' Row='13' Place='14' X='477' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3261' Row='13' Place='15' X='507' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3262' Row='13' Place='16' X='537' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3131' Row='13' Place='17' X='570' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3132' Row='13' Place='18' X='600' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3133' Row='13' Place='19' X='630' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3248' Row='13' Place='2' X='117' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3134' Row='13' Place='20' X='660' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3135' Row='13' Place='21' X='690' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3136' Row='13' Place='22' X='720' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3137' Row='13' Place='23' X='750' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3138' Row='13' Place='24' X='780' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3139' Row='13' Place='25' X='810' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3140' Row='13' Place='26' X='840' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3141' Row='13' Place='27' X='870' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3142' Row='13' Place='28' X='900' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3143' Row='13' Place='29' X='930' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3249' Row='13' Place='3' X='147' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3144' Row='13' Place='30' X='960' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3145' Row='13' Place='31' X='990' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3146' Row='13' Place='32' X='1020' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3147' Row='13' Place='33' X='1050' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3148' Row='13' Place='34' X='1080' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3250' Row='13' Place='4' X='177' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3251' Row='13' Place='5' X='207' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3252' Row='13' Place='6' X='237' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3253' Row='13' Place='7' X='267' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3254' Row='13' Place='8' X='297' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3255' Row='13' Place='9' X='327' Y='425' Width='28' Height='28' Type='6'/>
+									<Place ID='3230' Row='14' Place='1' X='87' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3239' Row='14' Place='10' X='357' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3240' Row='14' Place='11' X='387' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3241' Row='14' Place='12' X='417' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3242' Row='14' Place='13' X='447' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3243' Row='14' Place='14' X='477' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3244' Row='14' Place='15' X='507' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3245' Row='14' Place='16' X='537' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3149' Row='14' Place='17' X='570' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3150' Row='14' Place='18' X='600' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3151' Row='14' Place='19' X='630' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3231' Row='14' Place='2' X='117' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3152' Row='14' Place='20' X='660' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3153' Row='14' Place='21' X='690' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3154' Row='14' Place='22' X='720' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3155' Row='14' Place='23' X='750' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3156' Row='14' Place='24' X='780' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3157' Row='14' Place='25' X='810' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3158' Row='14' Place='26' X='840' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3159' Row='14' Place='27' X='870' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3160' Row='14' Place='28' X='900' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3161' Row='14' Place='29' X='930' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3232' Row='14' Place='3' X='147' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3162' Row='14' Place='30' X='960' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3163' Row='14' Place='31' X='990' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3164' Row='14' Place='32' X='1020' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3165' Row='14' Place='33' X='1050' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3166' Row='14' Place='34' X='1080' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3233' Row='14' Place='4' X='177' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3234' Row='14' Place='5' X='207' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3235' Row='14' Place='6' X='237' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3236' Row='14' Place='7' X='267' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3237' Row='14' Place='8' X='297' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3238' Row='14' Place='9' X='327' Y='455' Width='28' Height='28' Type='6'/>
+									<Place ID='3213' Row='15' Place='1' X='87' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3222' Row='15' Place='10' X='357' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3223' Row='15' Place='11' X='387' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3224' Row='15' Place='12' X='417' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3225' Row='15' Place='13' X='447' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3226' Row='15' Place='14' X='477' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3227' Row='15' Place='15' X='507' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3228' Row='15' Place='16' X='537' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3167' Row='15' Place='17' X='570' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3168' Row='15' Place='18' X='600' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3169' Row='15' Place='19' X='630' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3214' Row='15' Place='2' X='117' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3170' Row='15' Place='20' X='660' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3171' Row='15' Place='21' X='690' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3172' Row='15' Place='22' X='720' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3173' Row='15' Place='23' X='750' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3174' Row='15' Place='24' X='780' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3175' Row='15' Place='25' X='810' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3176' Row='15' Place='26' X='840' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3177' Row='15' Place='27' X='870' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3178' Row='15' Place='28' X='900' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3179' Row='15' Place='29' X='930' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3215' Row='15' Place='3' X='147' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3180' Row='15' Place='30' X='960' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3181' Row='15' Place='31' X='990' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3182' Row='15' Place='32' X='1020' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3183' Row='15' Place='33' X='1050' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3184' Row='15' Place='34' X='1080' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3216' Row='15' Place='4' X='177' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3217' Row='15' Place='5' X='207' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3218' Row='15' Place='6' X='237' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3219' Row='15' Place='7' X='267' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3220' Row='15' Place='8' X='297' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3221' Row='15' Place='9' X='327' Y='485' Width='28' Height='28' Type='6'/>
+									<Place ID='3196' Row='16' Place='1' X='87' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3205' Row='16' Place='10' X='357' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3206' Row='16' Place='11' X='387' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3207' Row='16' Place='12' X='417' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3208' Row='16' Place='13' X='447' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3209' Row='16' Place='14' X='477' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3210' Row='16' Place='15' X='507' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3211' Row='16' Place='16' X='537' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3185' Row='16' Place='17' X='570' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3186' Row='16' Place='18' X='600' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3187' Row='16' Place='19' X='630' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3197' Row='16' Place='2' X='117' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3188' Row='16' Place='20' X='660' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3189' Row='16' Place='21' X='690' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3190' Row='16' Place='22' X='720' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3191' Row='16' Place='23' X='750' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3192' Row='16' Place='24' X='780' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3479' Row='16' Place='25' X='810' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3480' Row='16' Place='26' X='840' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3481' Row='16' Place='27' X='870' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3482' Row='16' Place='28' X='900' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3483' Row='16' Place='29' X='930' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3198' Row='16' Place='3' X='147' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3484' Row='16' Place='30' X='960' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3485' Row='16' Place='31' X='990' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3486' Row='16' Place='32' X='1020' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3487' Row='16' Place='33' X='1050' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3488' Row='16' Place='34' X='1080' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3199' Row='16' Place='4' X='177' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3200' Row='16' Place='5' X='207' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3201' Row='16' Place='6' X='237' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3202' Row='16' Place='7' X='267' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3203' Row='16' Place='8' X='297' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3204' Row='16' Place='9' X='327' Y='515' Width='28' Height='28' Type='6'/>
+									<Place ID='3419' Row='2' Place='1' X='178' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='3428' Row='2' Place='10' X='448' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='3429' Row='2' Place='11' X='478' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='3430' Row='2' Place='12' X='508' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='3431' Row='2' Place='13' X='538' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='3477' Row='2' Place='14' X='570' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='3478' Row='2' Place='15' X='600' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='2957' Row='2' Place='16' X='630' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='2958' Row='2' Place='17' X='660' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='2959' Row='2' Place='18' X='690' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='2960' Row='2' Place='19' X='720' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='3420' Row='2' Place='2' X='208' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='2961' Row='2' Place='20' X='750' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='2962' Row='2' Place='21' X='780' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='2963' Row='2' Place='22' X='810' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='2964' Row='2' Place='23' X='840' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='2965' Row='2' Place='24' X='870' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='2966' Row='2' Place='25' X='900' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='2967' Row='2' Place='26' X='930' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='2968' Row='2' Place='27' X='960' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='2969' Row='2' Place='28' X='990' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='3421' Row='2' Place='3' X='238' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='3422' Row='2' Place='4' X='268' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='3423' Row='2' Place='5' X='298' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='3424' Row='2' Place='6' X='328' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='3425' Row='2' Place='7' X='358' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='3426' Row='2' Place='8' X='388' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='3427' Row='2' Place='9' X='418' Y='80' Width='28' Height='28' Type='6'/>
+									<Place ID='3405' Row='3' Place='1' X='178' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='3414' Row='3' Place='10' X='448' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='3415' Row='3' Place='11' X='478' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='3416' Row='3' Place='12' X='508' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='3417' Row='3' Place='13' X='538' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='2970' Row='3' Place='14' X='570' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='2971' Row='3' Place='15' X='600' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='2972' Row='3' Place='16' X='630' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='2973' Row='3' Place='17' X='660' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='2974' Row='3' Place='18' X='690' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='2975' Row='3' Place='19' X='720' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='3406' Row='3' Place='2' X='208' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='2976' Row='3' Place='20' X='750' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='2977' Row='3' Place='21' X='780' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='2978' Row='3' Place='22' X='810' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='2979' Row='3' Place='23' X='840' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='2980' Row='3' Place='24' X='870' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='2981' Row='3' Place='25' X='900' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='2982' Row='3' Place='26' X='930' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='2983' Row='3' Place='27' X='960' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='2984' Row='3' Place='28' X='990' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='3407' Row='3' Place='3' X='238' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='3408' Row='3' Place='4' X='268' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='3409' Row='3' Place='5' X='298' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='3410' Row='3' Place='6' X='328' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='3411' Row='3' Place='7' X='358' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='3412' Row='3' Place='8' X='388' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='3413' Row='3' Place='9' X='418' Y='110' Width='28' Height='28' Type='6'/>
+									<Place ID='3388' Row='4' Place='1' X='88' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3397' Row='4' Place='10' X='358' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3398' Row='4' Place='11' X='388' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3399' Row='4' Place='12' X='418' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3400' Row='4' Place='13' X='448' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3401' Row='4' Place='14' X='478' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3402' Row='4' Place='15' X='508' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3403' Row='4' Place='16' X='538' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='2985' Row='4' Place='17' X='570' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='2986' Row='4' Place='18' X='600' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='2987' Row='4' Place='19' X='630' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3389' Row='4' Place='2' X='118' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='2988' Row='4' Place='20' X='660' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='2989' Row='4' Place='21' X='690' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='2990' Row='4' Place='22' X='720' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='2991' Row='4' Place='23' X='750' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='2992' Row='4' Place='24' X='780' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='2993' Row='4' Place='25' X='810' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='2994' Row='4' Place='26' X='840' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='2995' Row='4' Place='27' X='870' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='2996' Row='4' Place='28' X='900' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='2997' Row='4' Place='29' X='930' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3390' Row='4' Place='3' X='148' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='2998' Row='4' Place='30' X='960' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='2999' Row='4' Place='31' X='990' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3000' Row='4' Place='32' X='1020' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3001' Row='4' Place='33' X='1050' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3002' Row='4' Place='34' X='1080' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3391' Row='4' Place='4' X='178' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3392' Row='4' Place='5' X='208' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3393' Row='4' Place='6' X='238' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3394' Row='4' Place='7' X='268' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3395' Row='4' Place='8' X='298' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3396' Row='4' Place='9' X='328' Y='155' Width='28' Height='28' Type='6'/>
+									<Place ID='3371' Row='5' Place='1' X='88' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3380' Row='5' Place='10' X='358' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3381' Row='5' Place='11' X='388' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3382' Row='5' Place='12' X='418' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3383' Row='5' Place='13' X='448' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3384' Row='5' Place='14' X='478' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3385' Row='5' Place='15' X='508' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3386' Row='5' Place='16' X='538' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3003' Row='5' Place='17' X='570' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3004' Row='5' Place='18' X='600' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3005' Row='5' Place='19' X='630' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3372' Row='5' Place='2' X='118' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3006' Row='5' Place='20' X='660' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3007' Row='5' Place='21' X='690' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3008' Row='5' Place='22' X='720' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3009' Row='5' Place='23' X='750' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3010' Row='5' Place='24' X='780' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3011' Row='5' Place='25' X='810' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3012' Row='5' Place='26' X='840' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3013' Row='5' Place='27' X='870' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3014' Row='5' Place='28' X='900' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3015' Row='5' Place='29' X='930' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3373' Row='5' Place='3' X='148' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3016' Row='5' Place='30' X='960' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3017' Row='5' Place='31' X='990' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3018' Row='5' Place='32' X='1020' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3019' Row='5' Place='33' X='1050' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3020' Row='5' Place='34' X='1080' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3374' Row='5' Place='4' X='178' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3375' Row='5' Place='5' X='208' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3376' Row='5' Place='6' X='238' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3377' Row='5' Place='7' X='268' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3378' Row='5' Place='8' X='298' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3379' Row='5' Place='9' X='328' Y='185' Width='28' Height='28' Type='6'/>
+									<Place ID='3354' Row='6' Place='1' X='88' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3363' Row='6' Place='10' X='358' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3364' Row='6' Place='11' X='388' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3365' Row='6' Place='12' X='418' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3366' Row='6' Place='13' X='448' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3367' Row='6' Place='14' X='478' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3368' Row='6' Place='15' X='508' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3369' Row='6' Place='16' X='538' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3021' Row='6' Place='17' X='570' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3022' Row='6' Place='18' X='600' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3023' Row='6' Place='19' X='630' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3355' Row='6' Place='2' X='118' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3024' Row='6' Place='20' X='660' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3025' Row='6' Place='21' X='690' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3026' Row='6' Place='22' X='720' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3027' Row='6' Place='23' X='750' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3028' Row='6' Place='24' X='780' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3029' Row='6' Place='25' X='810' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3030' Row='6' Place='26' X='840' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3031' Row='6' Place='27' X='870' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3032' Row='6' Place='28' X='900' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3033' Row='6' Place='29' X='930' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3356' Row='6' Place='3' X='148' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3034' Row='6' Place='30' X='960' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3035' Row='6' Place='31' X='990' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3036' Row='6' Place='32' X='1020' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3037' Row='6' Place='33' X='1050' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3038' Row='6' Place='34' X='1080' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3357' Row='6' Place='4' X='178' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3358' Row='6' Place='5' X='208' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3359' Row='6' Place='6' X='238' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3360' Row='6' Place='7' X='268' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3361' Row='6' Place='8' X='298' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3362' Row='6' Place='9' X='328' Y='215' Width='28' Height='28' Type='6'/>
+									<Place ID='3337' Row='7' Place='1' X='88' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3346' Row='7' Place='10' X='358' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3347' Row='7' Place='11' X='388' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3348' Row='7' Place='12' X='418' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3349' Row='7' Place='13' X='448' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3350' Row='7' Place='14' X='478' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3351' Row='7' Place='15' X='508' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3352' Row='7' Place='16' X='538' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3039' Row='7' Place='17' X='570' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3040' Row='7' Place='18' X='600' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3041' Row='7' Place='19' X='630' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3338' Row='7' Place='2' X='118' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3042' Row='7' Place='20' X='660' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3043' Row='7' Place='21' X='690' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3044' Row='7' Place='22' X='720' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3045' Row='7' Place='23' X='750' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3046' Row='7' Place='24' X='780' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3047' Row='7' Place='25' X='810' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3048' Row='7' Place='26' X='840' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3049' Row='7' Place='27' X='870' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3050' Row='7' Place='28' X='900' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3051' Row='7' Place='29' X='930' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3339' Row='7' Place='3' X='148' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3052' Row='7' Place='30' X='960' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3053' Row='7' Place='31' X='990' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3054' Row='7' Place='32' X='1020' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3055' Row='7' Place='33' X='1050' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3056' Row='7' Place='34' X='1080' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3340' Row='7' Place='4' X='178' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3341' Row='7' Place='5' X='208' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3342' Row='7' Place='6' X='238' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3343' Row='7' Place='7' X='268' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3344' Row='7' Place='8' X='298' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3345' Row='7' Place='9' X='328' Y='245' Width='28' Height='28' Type='6'/>
+									<Place ID='3320' Row='8' Place='1' X='88' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3329' Row='8' Place='10' X='358' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3330' Row='8' Place='11' X='388' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3331' Row='8' Place='12' X='418' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3332' Row='8' Place='13' X='448' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3333' Row='8' Place='14' X='478' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3334' Row='8' Place='15' X='508' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3335' Row='8' Place='16' X='538' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3057' Row='8' Place='17' X='570' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3058' Row='8' Place='18' X='600' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3059' Row='8' Place='19' X='630' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3321' Row='8' Place='2' X='118' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3060' Row='8' Place='20' X='660' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3061' Row='8' Place='21' X='690' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3062' Row='8' Place='22' X='720' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3063' Row='8' Place='23' X='750' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3064' Row='8' Place='24' X='780' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3065' Row='8' Place='25' X='810' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3066' Row='8' Place='26' X='840' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3067' Row='8' Place='27' X='870' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3068' Row='8' Place='28' X='900' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3069' Row='8' Place='29' X='930' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3322' Row='8' Place='3' X='148' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3070' Row='8' Place='30' X='960' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3071' Row='8' Place='31' X='990' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3072' Row='8' Place='32' X='1020' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3073' Row='8' Place='33' X='1050' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3074' Row='8' Place='34' X='1080' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3323' Row='8' Place='4' X='178' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3324' Row='8' Place='5' X='208' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3325' Row='8' Place='6' X='238' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3326' Row='8' Place='7' X='268' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3327' Row='8' Place='8' X='298' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3328' Row='8' Place='9' X='328' Y='275' Width='28' Height='28' Type='6'/>
+									<Place ID='3306' Row='9' Place='1' X='87' Y='305' Width='28' Height='28' Type='6'/>
+									<Place ID='3315' Row='9' Place='10' X='402' Y='305' Width='29' Height='29' Type='6'/>
+									<Place ID='3316' Row='9' Place='11' X='447' Y='305' Width='29' Height='29' Type='6'/>
+									<Place ID='3317' Row='9' Place='12' X='492' Y='305' Width='29' Height='29' Type='6'/>
+									<Place ID='3318' Row='9' Place='13' X='537' Y='305' Width='29' Height='29' Type='6'/>
+									<Place ID='3075' Row='9' Place='14' X='580' Y='305' Width='29' Height='29' Type='6'/>
+									<Place ID='3076' Row='9' Place='15' X='625' Y='305' Width='29' Height='29' Type='6'/>
+									<Place ID='3077' Row='9' Place='16' X='665' Y='305' Width='29' Height='29' Type='6'/>
+									<Place ID='3078' Row='9' Place='17' X='715' Y='305' Width='29' Height='29' Type='6'/>
+									<Place ID='3079' Row='9' Place='18' X='765' Y='305' Width='29' Height='29' Type='6'/>
+									<Place ID='3080' Row='9' Place='19' X='810' Y='305' Width='29' Height='29' Type='6'/>
+									<Place ID='3307' Row='9' Place='2' X='117' Y='305' Width='28' Height='28' Type='6'/>
+									<Place ID='3081' Row='9' Place='20' X='855' Y='305' Width='29' Height='29' Type='6'/>
+									<Place ID='3082' Row='9' Place='21' X='900' Y='305' Width='28' Height='28' Type='6'/>
+									<Place ID='3083' Row='9' Place='22' X='930' Y='305' Width='28' Height='28' Type='6'/>
+									<Place ID='3084' Row='9' Place='23' X='960' Y='305' Width='28' Height='28' Type='6'/>
+									<Place ID='3085' Row='9' Place='24' X='990' Y='305' Width='28' Height='28' Type='6'/>
+									<Place ID='3086' Row='9' Place='25' X='1020' Y='305' Width='28' Height='28' Type='6'/>
+									<Place ID='3087' Row='9' Place='26' X='1050' Y='305' Width='28' Height='28' Type='6'/>
+									<Place ID='3088' Row='9' Place='27' X='1080' Y='305' Width='28' Height='28' Type='6'/>
+									<Place ID='3308' Row='9' Place='3' X='147' Y='305' Width='28' Height='28' Type='6'/>
+									<Place ID='3309' Row='9' Place='4' X='177' Y='305' Width='28' Height='28' Type='6'/>
+									<Place ID='3310' Row='9' Place='5' X='207' Y='305' Width='28' Height='28' Type='6'/>
+									<Place ID='3311' Row='9' Place='6' X='237' Y='305' Width='28' Height='28' Type='6'/>
+									<Place ID='3312' Row='9' Place='7' X='267' Y='305' Width='28' Height='28' Type='6'/>
+									<Place ID='3313' Row='9' Place='8' X='307' Y='305' Width='29' Height='29' Type='6'/>
+									<Place ID='3314' Row='9' Place='9' X='357' Y='305' Width='29' Height='29' Type='6'/>
+								</Places>
+							</Level>
+						</Levels>
+					</Hall>
+				</Halls>
+			</Theatre>
+		</Theatres>
+	</Data>
+</XML>
